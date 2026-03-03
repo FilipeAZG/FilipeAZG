@@ -11,7 +11,6 @@
 <p align="left">
 <a href="https://dev.to/filipeazg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="filipeazg" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/29065037" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29065037" height="30" width="40" /></a>
-<a href="https://discord.gg/bgRJtsasMv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bgRJtsasMv" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
